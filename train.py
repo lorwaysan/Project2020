@@ -11,6 +11,7 @@ import losses
 import utils
 import os
 import argparse
+#file which create a train network function
 
 slim = tf.contrib.slim
 
